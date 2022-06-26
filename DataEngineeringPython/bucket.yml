@@ -2,8 +2,5 @@ flows:
   b42ad116-a33b-45e9-8971-4117b8265081: {ver: 3, file: SCF.snapshot, comments: Add
       New Data warehouse2 Process, author: anonymous, created: 1656136726186, flowName: SCF,
     flowDesc: ''}
-  a0c6f163-6846-48a7-a469-bddbafec47c3: {ver: 1, file: ReadDataLake.snapshot, comments: first
-      commit, author: anonymous, created: 1656211667763, flowName: ReadDataLake, flowDesc: Get
-      information from file as a flow file's attribute}
 layoutVer: 1
 bucketId: bd1486ef-3995-40c3-8a5a-9d6f5138a928
