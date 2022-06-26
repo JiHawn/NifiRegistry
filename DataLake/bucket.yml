@@ -1,0 +1,6 @@
+flows:
+  71fcd020-3038-4fd1-ad72-b3ea1de91b74: {ver: 1, file: OutputDataLake.snapshot, comments: first
+      commit, author: anonymous, created: 1656211797029, flowName: OutputDataLake,
+    flowDesc: Get people information from file}
+layoutVer: 1
+bucketId: 0d266d1b-9b68-41c2-a209-6da93c6e5467
